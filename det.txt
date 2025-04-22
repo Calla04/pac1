@@ -1,4 +1,4 @@
 Rollno : 49
 Name : saalima
 Dept : computer science
-fees : 90000
+fees : 900000
